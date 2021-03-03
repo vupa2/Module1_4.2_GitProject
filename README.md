@@ -1,2 +1,2 @@
-# Module1_4.2_my-new-project
+# Module1_4.2_GitProject
 My Second Git Respository
